@@ -1,4 +1,4 @@
-package AprendendoWhile;
+package TreinandoWhile;
 
 public class ExercicioWhile02 {
     public static void main(String[] args) {
