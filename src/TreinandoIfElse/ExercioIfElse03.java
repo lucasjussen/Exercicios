@@ -1,6 +1,6 @@
-package ProjetoLucas.Introducao;
+package TreinandoIfElse;
 
-public class AquecimentoIfElse03 {
+public class ExercioIfElse03 {
     public static void main(String[] args) {
         // Receba uma nota de 0 a 10.
         // Sistema de notas

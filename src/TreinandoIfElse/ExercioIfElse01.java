@@ -1,8 +1,8 @@
-package ProjetoLucas.Introducao;
+package TreinandoIfElse;
 
-public class AquecimentoIfElse {
+public class ExercioIfElse01 {
     public static void main(String[] args) {
-        int idade = 25;
+        int idade = 10;
         String categoriaIdade;
 
         if(idade <= 17){

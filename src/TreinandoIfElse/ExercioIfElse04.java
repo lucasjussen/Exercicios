@@ -1,6 +1,6 @@
-package ProjetoLucas.Introducao;
+package TreinandoIfElse;
 
-public class AquecimentoIfElse04 {
+public class ExercioIfElse04 {
     public static void main(String[] args) {
         int idade = 20;
         double salario = 5000;

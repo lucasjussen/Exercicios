@@ -1,6 +1,6 @@
-package ProjetoLucas.Introducao;
+package TreinandoIfElse;
 
-public class AquecimentoIfElse02 {
+public class ExercioIfElse02 {
     public static void main(String[] args) {
         // Produto = R$ 200
         // Cliente pagar à vista - 10% de desconto
